@@ -1,0 +1,8 @@
+{
+  "name": "SolarOps Manager",
+  "description": "Hệ thống quản trị toàn diện cho doanh nghiệp thi công điện năng lượng mặt trời, bao gồm quản lý dự án, kho vật tư và trợ lý AI kỹ thuật.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
